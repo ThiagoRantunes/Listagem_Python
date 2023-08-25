@@ -61,4 +61,4 @@ def Remover():
         for nomeLista in lista.items():
             print(nomeLista)
     else:
-        print("O nome que você digitou não esta no sistema: ")
+        print("O nome que você digitou não esta no sistema!")
